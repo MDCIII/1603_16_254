@@ -24,7 +24,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Régina"@fra-Latn ;
-    wdata:q7200235 "GF1301" ;
+    wdata:Q7200235 "GF1301" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -68,7 +68,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Cayenne"@fra-Latn ;
-    wdata:q7200235 "GF1302" ;
+    wdata:Q7200235 "GF1302" ;
 .
 
 <urn:mdciii:1603:16:254:2:1303>
@@ -80,7 +80,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Iracoubo"@fra-Latn ;
-    wdata:q7200235 "GF1303" ;
+    wdata:Q7200235 "GF1303" ;
 .
 
 <urn:mdciii:1603:16:254:2:1304>
@@ -92,7 +92,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Kourou"@fra-Latn ;
-    wdata:q7200235 "GF1304" ;
+    wdata:Q7200235 "GF1304" ;
 .
 
 <urn:mdciii:1603:16:254:2:1305>
@@ -104,7 +104,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Macouria"@fra-Latn ;
-    wdata:q7200235 "GF1305" ;
+    wdata:Q7200235 "GF1305" ;
 .
 
 <urn:mdciii:1603:16:254:2:1307>
@@ -116,7 +116,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Matoury"@fra-Latn ;
-    wdata:q7200235 "GF1307" ;
+    wdata:Q7200235 "GF1307" ;
 .
 
 <urn:mdciii:1603:16:254:2:1308>
@@ -128,7 +128,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Saint-Georges"@fra-Latn ;
-    wdata:q7200235 "GF1308" ;
+    wdata:Q7200235 "GF1308" ;
 .
 
 <urn:mdciii:1603:16:254:2:1309>
@@ -140,7 +140,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Remire-Montjoly"@fra-Latn ;
-    wdata:q7200235 "GF1309" ;
+    wdata:Q7200235 "GF1309" ;
 .
 
 <urn:mdciii:1603:16:254:2:1310>
@@ -152,7 +152,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Roura"@fra-Latn ;
-    wdata:q7200235 "GF1310" ;
+    wdata:Q7200235 "GF1310" ;
 .
 
 <urn:mdciii:1603:16:254:2:1312>
@@ -164,7 +164,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Sinnamary"@fra-Latn ;
-    wdata:q7200235 "GF1312" ;
+    wdata:Q7200235 "GF1312" ;
 .
 
 <urn:mdciii:1603:16:254:2:1313>
@@ -176,7 +176,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Montsinéry-Tonnegrande"@fra-Latn ;
-    wdata:q7200235 "GF1313" ;
+    wdata:Q7200235 "GF1313" ;
 .
 
 <urn:mdciii:1603:16:254:2:1314>
@@ -188,7 +188,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Ouanary"@fra-Latn ;
-    wdata:q7200235 "GF1314" ;
+    wdata:Q7200235 "GF1314" ;
 .
 
 <urn:mdciii:1603:16:254:2:1356>
@@ -200,7 +200,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Camopi"@fra-Latn ;
-    wdata:q7200235 "GF1356" ;
+    wdata:Q7200235 "GF1356" ;
 .
 
 <urn:mdciii:1603:16:254:2:1358>
@@ -212,7 +212,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:1> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:1> ;
     skos:prefLabel "Saint-Élie"@fra-Latn ;
-    wdata:q7200235 "GF1358" ;
+    wdata:Q7200235 "GF1358" ;
 .
 
 <urn:mdciii:1603:16:254:2:2306>
@@ -224,7 +224,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Mana"@fra-Latn ;
-    wdata:q7200235 "GF2306" ;
+    wdata:Q7200235 "GF2306" ;
 .
 
 <urn:mdciii:1603:16:254:2:2311>
@@ -236,7 +236,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Saint-Laurent-du-Maroni"@fra-Latn ;
-    wdata:q7200235 "GF2311" ;
+    wdata:Q7200235 "GF2311" ;
 .
 
 <urn:mdciii:1603:16:254:2:2352>
@@ -248,7 +248,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Saül"@fra-Latn ;
-    wdata:q7200235 "GF2352" ;
+    wdata:Q7200235 "GF2352" ;
 .
 
 <urn:mdciii:1603:16:254:2:2353>
@@ -260,7 +260,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Maripasoula"@fra-Latn ;
-    wdata:q7200235 "GF2353" ;
+    wdata:Q7200235 "GF2353" ;
 .
 
 <urn:mdciii:1603:16:254:2:2357>
@@ -272,7 +272,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Grand-Santi"@fra-Latn ;
-    wdata:q7200235 "GF2357" ;
+    wdata:Q7200235 "GF2357" ;
 .
 
 <urn:mdciii:1603:16:254:2:2360>
@@ -284,7 +284,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Apatou"@fra-Latn ;
-    wdata:q7200235 "GF2360" ;
+    wdata:Q7200235 "GF2360" ;
 .
 
 <urn:mdciii:1603:16:254:2:2361>
@@ -296,7 +296,7 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Awala-Yalimapo"@fra-Latn ;
-    wdata:q7200235 "GF2361" ;
+    wdata:Q7200235 "GF2361" ;
 .
 
 <urn:mdciii:1603:16:254:2:2362>
@@ -308,6 +308,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
     obo:BFO_0000124 <urn:mcdiii:1603:16:254:1:2> ;
     obo:BFO_0000171 <urn:mcdiii:1603:16:254:1:2> ;
     skos:prefLabel "Papaïchton"@fra-Latn ;
-    wdata:q7200235 "GF2362" ;
+    wdata:Q7200235 "GF2362" ;
 .
 

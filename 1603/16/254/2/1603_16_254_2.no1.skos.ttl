@@ -1,7 +1,6 @@
 PREFIX owl: <http://www.w3.org/2002/07/owl#>
 PREFIX rdfs: <http://www.w3.org/2000/01/rdf-schema#>
 PREFIX skos: <http://www.w3.org/2004/02/skos/core#>
-PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
 
 <urn:mdciii:1603:16:254()>
     a skos:Collection ;
@@ -20,7 +19,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1301" ;
     skos:prefLabel "Régina"@fra-Latn ;
-    wdata:q7200235 "GF1301" ;
 .
 
 <urn:mdciii:1603:16()>
@@ -61,7 +59,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1302" ;
     skos:prefLabel "Cayenne"@fra-Latn ;
-    wdata:q7200235 "GF1302" ;
 .
 
 <urn:mdciii:1603:16:254:2:1303>
@@ -70,7 +67,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1303" ;
     skos:prefLabel "Iracoubo"@fra-Latn ;
-    wdata:q7200235 "GF1303" ;
 .
 
 <urn:mdciii:1603:16:254:2:1304>
@@ -79,7 +75,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1304" ;
     skos:prefLabel "Kourou"@fra-Latn ;
-    wdata:q7200235 "GF1304" ;
 .
 
 <urn:mdciii:1603:16:254:2:1305>
@@ -88,7 +83,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1305" ;
     skos:prefLabel "Macouria"@fra-Latn ;
-    wdata:q7200235 "GF1305" ;
 .
 
 <urn:mdciii:1603:16:254:2:1307>
@@ -97,7 +91,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1307" ;
     skos:prefLabel "Matoury"@fra-Latn ;
-    wdata:q7200235 "GF1307" ;
 .
 
 <urn:mdciii:1603:16:254:2:1308>
@@ -106,7 +99,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1308" ;
     skos:prefLabel "Saint-Georges"@fra-Latn ;
-    wdata:q7200235 "GF1308" ;
 .
 
 <urn:mdciii:1603:16:254:2:1309>
@@ -115,7 +107,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1309" ;
     skos:prefLabel "Remire-Montjoly"@fra-Latn ;
-    wdata:q7200235 "GF1309" ;
 .
 
 <urn:mdciii:1603:16:254:2:1310>
@@ -124,7 +115,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1310" ;
     skos:prefLabel "Roura"@fra-Latn ;
-    wdata:q7200235 "GF1310" ;
 .
 
 <urn:mdciii:1603:16:254:2:1312>
@@ -133,7 +123,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1312" ;
     skos:prefLabel "Sinnamary"@fra-Latn ;
-    wdata:q7200235 "GF1312" ;
 .
 
 <urn:mdciii:1603:16:254:2:1313>
@@ -142,7 +131,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1313" ;
     skos:prefLabel "Montsinéry-Tonnegrande"@fra-Latn ;
-    wdata:q7200235 "GF1313" ;
 .
 
 <urn:mdciii:1603:16:254:2:1314>
@@ -151,7 +139,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1314" ;
     skos:prefLabel "Ouanary"@fra-Latn ;
-    wdata:q7200235 "GF1314" ;
 .
 
 <urn:mdciii:1603:16:254:2:1356>
@@ -160,7 +147,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1356" ;
     skos:prefLabel "Camopi"@fra-Latn ;
-    wdata:q7200235 "GF1356" ;
 .
 
 <urn:mdciii:1603:16:254:2:1358>
@@ -169,7 +155,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:1358" ;
     skos:prefLabel "Saint-Élie"@fra-Latn ;
-    wdata:q7200235 "GF1358" ;
 .
 
 <urn:mdciii:1603:16:254:2:2306>
@@ -178,7 +163,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2306" ;
     skos:prefLabel "Mana"@fra-Latn ;
-    wdata:q7200235 "GF2306" ;
 .
 
 <urn:mdciii:1603:16:254:2:2311>
@@ -187,7 +171,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2311" ;
     skos:prefLabel "Saint-Laurent-du-Maroni"@fra-Latn ;
-    wdata:q7200235 "GF2311" ;
 .
 
 <urn:mdciii:1603:16:254:2:2352>
@@ -196,7 +179,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2352" ;
     skos:prefLabel "Saül"@fra-Latn ;
-    wdata:q7200235 "GF2352" ;
 .
 
 <urn:mdciii:1603:16:254:2:2353>
@@ -205,7 +187,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2353" ;
     skos:prefLabel "Maripasoula"@fra-Latn ;
-    wdata:q7200235 "GF2353" ;
 .
 
 <urn:mdciii:1603:16:254:2:2357>
@@ -214,7 +195,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2357" ;
     skos:prefLabel "Grand-Santi"@fra-Latn ;
-    wdata:q7200235 "GF2357" ;
 .
 
 <urn:mdciii:1603:16:254:2:2360>
@@ -223,7 +203,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2360" ;
     skos:prefLabel "Apatou"@fra-Latn ;
-    wdata:q7200235 "GF2360" ;
 .
 
 <urn:mdciii:1603:16:254:2:2361>
@@ -232,7 +211,6 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2361" ;
     skos:prefLabel "Awala-Yalimapo"@fra-Latn ;
-    wdata:q7200235 "GF2361" ;
 .
 
 <urn:mdciii:1603:16:254:2:2362>
@@ -241,6 +219,5 @@ PREFIX wdata: <http://www.wikidata.org/wiki/Special:EntityData/>
         skos:Concept ;
     rdfs:label "1603:16:254:2:2362" ;
     skos:prefLabel "Papaïchton"@fra-Latn ;
-    wdata:q7200235 "GF2362" ;
 .
 
